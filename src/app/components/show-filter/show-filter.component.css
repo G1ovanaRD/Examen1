@@ -1,0 +1,12 @@
+button{
+    background-color: rgb(193, 62, 193);
+    margin-right :3rem;
+    border-radius: 1rem;
+    color: aliceblue;
+    padding: 0.5rem;
+    border-color: darkmagenta;
+}
+
+.container{
+    justify-content: center;
+}
